@@ -1,4 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     color: blue;
-    size: 40px;
+}
+header{
+    margin: auto -16px;
+    padding: 16px 32px;
+    background-color: aqua;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3) ;
+}
+header h1{
+    color: #ff7f7f;
+    font-weight: 400;
+    text-align: center;
 }

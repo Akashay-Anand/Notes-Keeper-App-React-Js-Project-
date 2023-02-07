@@ -3,8 +3,8 @@ import style from '../Styles/CompStyle.css';
 
 export default function AppHeader() {
   return (
-    <div>
-        <h1>AppHeader</h1>
-    </div>
+    <header>
+        <h1>Notes Keeper</h1>
+    </header>
   )
 }
