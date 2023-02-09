@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Notes-Keeper-App-React-Js-Project-/static/css/main.e6452f86.css",
+    "main.js": "/Notes-Keeper-App-React-Js-Project-/static/js/main.02238785.js",
+    "static/js/787.e8bf04f9.chunk.js": "/Notes-Keeper-App-React-Js-Project-/static/js/787.e8bf04f9.chunk.js",
+    "static/media/projectbg.svg": "/Notes-Keeper-App-React-Js-Project-/static/media/projectbg.12f437e2a9c78ded6011.svg",
+    "index.html": "/Notes-Keeper-App-React-Js-Project-/index.html",
+    "main.e6452f86.css.map": "/Notes-Keeper-App-React-Js-Project-/static/css/main.e6452f86.css.map",
+    "main.02238785.js.map": "/Notes-Keeper-App-React-Js-Project-/static/js/main.02238785.js.map",
+    "787.e8bf04f9.chunk.js.map": "/Notes-Keeper-App-React-Js-Project-/static/js/787.e8bf04f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6452f86.css",
+    "static/js/main.02238785.js"
+  ]
+}
